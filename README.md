@@ -71,8 +71,8 @@
 - Woman at War
 - District 9
 - The Burial of Kojo
-- 
-- ## FUORI CLASSIFICA
+
+## FUORI CLASSIFICA
 - Andrej Rublëv
 - Il settimo sigillo (Det sjunde inseglet)
 - Sogni (Yume)
