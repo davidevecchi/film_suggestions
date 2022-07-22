@@ -72,13 +72,13 @@
 - District 9
 - The Burial of Kojo
 
-## FUORI CLASSIFICA
+## Fuori classifica
 - Andrej Rublëv
 - Il settimo sigillo (Det sjunde inseglet)
 - Sogni (Yume)
 - Paris, Texas
-- 
-- ## Altri must
+
+## Altri must
 - Trainspotting
 - Forrest Gump
 - Mr. Nobody
