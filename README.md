@@ -1,4 +1,4 @@
-# Film suggestions
+# Movie suggestions
 
 ## Registi
 - Gaspar Noé
