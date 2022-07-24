@@ -12,6 +12,7 @@
 - Richard Linklater
 - Alejandro Gonzales Inarritu
 - Lars Von Trier
+- Paul Thomas Anderson
 - Danny Boyle
 - Jean-Pierre Jeunet
 - Spike Jonze
