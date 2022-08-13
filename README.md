@@ -17,6 +17,7 @@
 - Jean-Pierre Jeunet
 - Spike Jonze
 - Akira Kurosawa
+- Pedro Almodóvar
 - Nicholas Winding Refn
 - Denis Villeneuve
 - Guillermo del Toro
@@ -57,6 +58,7 @@
 - Good Bye, Lienin!
 - A Prophet
 - Philomena
+- Todo sobre mi madre
 - Invisibles
 - The Hurt Locker
 - El Hoyo
