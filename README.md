@@ -129,4 +129,4 @@
 - [The Essential](https://open.spotify.com/show/43A9fUmUbLYaHKSi1lAtn5)
 
 ## Playlists
-- [My Spotify profile](https://open.spotify.com/user/davide__2000_)
+- [Davide on Spotify](https://open.spotify.com/user/davide__2000_)
