@@ -127,3 +127,6 @@
 - [Tlon](https://open.spotify.com/show/5dtrhf7zRe0u0UfDzpoIDp)
 - [DOI - Denominazione di Origine Inventata](https://open.spotify.com/show/4HAxuHe75m4b1Wq0sAtBkV)
 - [The Essential](https://open.spotify.com/show/43A9fUmUbLYaHKSi1lAtn5)
+
+## Playlists
+- [My Spotify profile](https://open.spotify.com/user/davide__2000_)
