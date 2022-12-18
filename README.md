@@ -109,8 +109,9 @@
 - Godfrey Reggio
 
 ## Documentari
-- Home
-- Cowspiracy
+- [Home](https://www.youtube.com/watch?v=-GUeDISwZ3E&ab_channel=CulturethequeIFRU)
+- [Human](https://www.youtube.com/watch?v=7avgocqkmZM&ab_channel=HUMANItalien)
+- Cowspiracy/Seaspiracy
 - Demain
 - Waltz with Bashir (animazione)
 - Is the man who is tall happy? (intervista/animazione)
