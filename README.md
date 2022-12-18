@@ -1,13 +1,13 @@
 # Suggestions
 
 ## Registi
-- Gaspar Noé
 - Stanley Kubrick
 - Andrej Tarkovskij
 - Ciro Guerra
 - Alejandro Jodorowsky
 - Wes Anderson
 - Bong Joon-Hu
+- Gaspar Noé
 - Darren Aronofsky
 - Richard Linklater
 - Alejandro Gonzales Inarritu
