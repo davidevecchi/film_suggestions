@@ -100,7 +100,7 @@
 - Persepolis
 - Yellow Submarine
 - La planète sauvage
-- Sita sings the Blues
+- [Sita sings the Blues](https://www.youtube.com/watch?v=RzTg7YXuy34&ab_channel=QuestionCopyright)
 - The Mysterious Geographic Explorations of Jasper Morello (corto)
 
 ## Documentaristi
