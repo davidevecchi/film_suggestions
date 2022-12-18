@@ -108,8 +108,8 @@
 - Ron Fricke
 - Godfrey Reggio
 
-## Documentari
-- [Home](https://www.youtube.com/watch?v=-GUeDISwZ3E&ab_channel=CulturethequeIFRU) (>1080p!)
+## Documentari (full HD!)
+- [Home](https://www.youtube.com/watch?v=-GUeDISwZ3E&ab_channel=CulturethequeIFRU)
 - [Human](https://www.youtube.com/watch?v=7avgocqkmZM&ab_channel=HUMANItalien)
 - Cowspiracy / Seaspiracy
 - Demain
