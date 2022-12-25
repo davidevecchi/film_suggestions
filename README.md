@@ -47,7 +47,7 @@
 - [Paul Thomas Anderson]()
 - [Danny Boyle]()
 - [Jean-Pierre Jeunet]()
-- [Michele Castrezzati](https://davidev.notion.site/1134fef840194e96998fdac839319b79?v=4a5943eea56a41ed9cf649a41e5ab174)
+- [Michele Castrezzati](_https://davidev.notion.site/1134fef840194e96998fdac839319b79?v=4a5943eea56a41ed9cf649a41e5ab174)
 - [Spike Jonze]()
 - [Akira Kurosawa]()
 - [Pedro Almodóvar]()
