@@ -47,7 +47,7 @@
 - [Paul Thomas Anderson]()
 - [Danny Boyle]()
 - [Jean-Pierre Jeunet]()
-- [Michele Castrezzati](https://www.notion.so/davidev/Buon-Natale-Elena-3844abc2310946ab9f8474726fe4e24f)
+- [Michele Castrezzati](https://davidev.notion.site/Buon-Natale-Elena-3844abc2310946ab9f8474726fe4e24f)
 - [Spike Jonze]()
 - [Akira Kurosawa]()
 - [Pedro Almodóvar]()
