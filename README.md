@@ -33,30 +33,31 @@
 ---
 
 ### Registi
-- Stanley Kubrick
-- Andrej Tarkovskij
-- Ciro Guerra
-- Alejandro Jodorowsky
-- Wes Anderson
-- Bong Joon-Hu
-- Gaspar Noé
-- Darren Aronofsky
-- Richard Linklater
-- Alejandro Gonzales Inarritu
-- Lars Von Trier
-- Paul Thomas Anderson
-- Danny Boyle
-- Jean-Pierre Jeunet
-- Spike Jonze
-- Akira Kurosawa
-- Pedro Almodóvar
-- Nicholas Winding Refn
-- Denis Villeneuve
-- Guillermo del Toro
-- Charlie Chaplin
-- Martin Scorsese
-- Quentin Tarantino
-- Charlie Kaufman (sceneggiatore)
+- [Stanley Kubrick]()
+- [Andrej Tarkovskij]()
+- [Ciro Guerra]()
+- [Alejandro Jodorowsky]()
+- [Wes Anderson]()
+- [Bong Joon-Hu]()
+- [Gaspar Noé]()
+- [Darren Aronofsky]()
+- [Richard Linklater]()
+- [Alejandro Gonzales Inarritu]()
+- [Lars Von Trier]()
+- [Paul Thomas Anderson]()
+- [Danny Boyle]()
+- [Jean-Pierre Jeunet]()
+- [Michele Castrezzati](https://davidev.notion.site/1134fef840194e96998fdac839319b79?v=4a5943eea56a41ed9cf649a41e5ab174)
+- [Spike Jonze]()
+- [Akira Kurosawa]()
+- [Pedro Almodóvar]()
+- [Nicholas Winding Refn]()
+- [Denis Villeneuve]()
+- [Guillermo del Toro]()
+- [Charlie Chaplin]()
+- [Martin Scorsese]()
+- [Quentin Tarantino]()
+- [Charlie Kaufman (sceneggiatore)]()
 
 ### Film (max 1 per regista)
 - Irrevérsible
