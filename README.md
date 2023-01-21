@@ -1,4 +1,4 @@
-# ◪ Suggestions
+# Suggestions
 
 ### Podcasts
 - [Il gorilla ce l'ha piccolo](https://open.spotify.com/show/52GCxZbAxfgm9eI8ZBtCmb)
@@ -33,31 +33,30 @@
 ---
 
 ### Registi
-- [Stanley Kubrick]()
-- [Andrej Tarkovskij]()
-- [Ciro Guerra]()
-- [Alejandro Jodorowsky]()
-- [Wes Anderson]()
-- [Bong Joon-Hu]()
-- [Gaspar Noé]()
-- [Darren Aronofsky]()
-- [Richard Linklater]()
-- [Alejandro Gonzales Inarritu]()
-- [Lars Von Trier]()
-- [Paul Thomas Anderson]()
-- [Danny Boyle]()
-- [Jean-Pierre Jeunet]()
-- [Michele Castrezzati](https://davidev.notion.site/Buon-Natale-Elena-3844abc2310946ab9f8474726fe4e24f)
-- [Spike Jonze]()
-- [Akira Kurosawa]()
-- [Pedro Almodóvar]()
-- [Nicholas Winding Refn]()
-- [Denis Villeneuve]()
-- [Guillermo del Toro]()
-- [Charlie Chaplin]()
-- [Martin Scorsese]()
-- [Quentin Tarantino]()
-- [Charlie Kaufman (sceneggiatore)]()
+- Stanley Kubrick
+- Andrej Tarkovskij
+- Ciro Guerra
+- Alejandro Jodorowsky
+- Wes Anderson
+- Bong Joon-Hu
+- Gaspar Noé
+- Darren Aronofsky
+- Richard Linklater
+- Alejandro Gonzales Inarritu
+- Lars Von Trier
+- Paul Thomas Anderson
+- Danny Boyle
+- Jean-Pierre Jeunet
+- Spike Jonze
+- Akira Kurosawa
+- Pedro Almodóvar
+- Nicholas Winding Refn
+- Denis Villeneuve
+- Guillermo del Toro
+- Charlie Chaplin
+- Martin Scorsese
+- Quentin Tarantino
+- Charlie Kaufman (sceneggiatore)
 
 ### Film (max 1 per regista)
 - Irrevérsible
