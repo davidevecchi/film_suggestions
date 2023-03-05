@@ -17,7 +17,7 @@
 - Ron Fricke
 - Godfrey Reggio
 
-### Documentari (full HD!)
+### Documentari
 - [Home](https://www.youtube.com/watch?v=-GUeDISwZ3E&ab_channel=CulturethequeIFRU)
 - [Human](https://www.youtube.com/watch?v=7avgocqkmZM&ab_channel=HUMANItalien)
 - Cowspiracy / Seaspiracy
@@ -50,6 +50,7 @@
 - Spike Jonze
 - Akira Kurosawa
 - Pedro Almodóvar
+- Terrence Malick
 - Nicholas Winding Refn
 - Denis Villeneuve
 - Guillermo del Toro
@@ -72,6 +73,7 @@
 - The Place Beyond the Pines
 - Requiem for a Dream
 - Parasite
+- The Tree of Life
 - Mr. Lonely
 - Good Time
 - The House That Jack Built
