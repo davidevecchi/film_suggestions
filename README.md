@@ -51,6 +51,7 @@
 - Akira Kurosawa
 - Pedro Almodóvar
 - Terrence Malick
+- Ruben Östlund
 - Nicholas Winding Refn
 - Denis Villeneuve
 - Guillermo del Toro
@@ -74,6 +75,7 @@
 - Requiem for a Dream
 - Parasite
 - The Tree of Life
+- The Square
 - Mr. Lonely
 - Good Time
 - The House That Jack Built
