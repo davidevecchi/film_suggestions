@@ -22,6 +22,7 @@
 - [Human](https://www.youtube.com/watch?v=7avgocqkmZM&ab_channel=HUMANItalien)
 - Cowspiracy / Seaspiracy
 - Demain
+- Anthropocene: The Human Epoch
 - Waltz with Bashir (animazione)
 - Is the man who is tall happy? (intervista/animazione)
 - Koyaanisqatsi (non narrativo)
