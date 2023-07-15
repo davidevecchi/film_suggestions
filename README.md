@@ -3,9 +3,14 @@
 ### Podcasts
 - [Il gorilla ce l'ha piccolo](https://open.spotify.com/show/52GCxZbAxfgm9eI8ZBtCmb)
 - [Per Terra](https://open.spotify.com/show/30pifsNr3VrHMDf3ZQbfn3)
+- [News dal pianeta Terra](https://open.spotify.com/show/1mO2TYhsOg6r2mhDlbV0OT)
+- [Stories](https://open.spotify.com/show/1FaCiqGahURjjO42JOMiyd)
+- [The Essential](https://open.spotify.com/show/43A9fUmUbLYaHKSi1lAtn5)
+- [A Wild Mind](https://open.spotify.com/show/53rrraht6EDz4lv3vSMp8x)
+- [Preferisco Ghisarmi](https://open.spotify.com/show/36ozA7y2lDUwUK30W896Fg)
+- [Illuminismo Psichedelico](https://open.spotify.com/show/4jTtobaXZHNdoXTDQjG1d0)
 - [Tlon](https://open.spotify.com/show/5dtrhf7zRe0u0UfDzpoIDp)
 - [DOI - Denominazione di Origine Inventata](https://open.spotify.com/show/4HAxuHe75m4b1Wq0sAtBkV)
-- [The Essential](https://open.spotify.com/show/43A9fUmUbLYaHKSi1lAtn5)
 
 ### Playlists
 - [Davide on Spotify](https://open.spotify.com/user/davide__2000_)
