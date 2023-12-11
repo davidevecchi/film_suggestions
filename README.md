@@ -7,6 +7,7 @@
 - [Stories](https://open.spotify.com/show/1FaCiqGahURjjO42JOMiyd)
 - [The Essential](https://open.spotify.com/show/43A9fUmUbLYaHKSi1lAtn5)
 - [A Wild Mind](https://open.spotify.com/show/53rrraht6EDz4lv3vSMp8x)
+- [Parole Verticali] (https://open.spotify.com/show/0NuEOq4geUG65Kbrk6Mfnj)
 - [Preferisco Ghisarmi](https://open.spotify.com/show/36ozA7y2lDUwUK30W896Fg)
 - [Illuminismo Psichedelico](https://open.spotify.com/show/4jTtobaXZHNdoXTDQjG1d0)
 - [Tlon](https://open.spotify.com/show/5dtrhf7zRe0u0UfDzpoIDp)
