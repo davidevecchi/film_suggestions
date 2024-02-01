@@ -6,7 +6,7 @@
   - [News dal pianeta Terra](https://open.spotify.com/show/1mO2TYhsOg6r2mhDlbV0OT)
   - [The Essential](https://open.spotify.com/show/43A9fUmUbLYaHKSi1lAtn5)
   - [Mele](https://open.spotify.com/show/1LuWOPevfjqV0RmrBF37C1)
-- **Scienze e Cultura**
+- **Cultura**
   - [Il gorilla ce l'ha piccolo](https://open.spotify.com/show/52GCxZbAxfgm9eI8ZBtCmb)
   - [Per Terra](https://open.spotify.com/show/30pifsNr3VrHMDf3ZQbfn3)
   - [A Wild Mind](https://open.spotify.com/show/53rrraht6EDz4lv3vSMp8x)
